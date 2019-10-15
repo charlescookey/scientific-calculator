@@ -3,7 +3,10 @@ This is a scientific calculator that looks like the casio fx-991es plus.
 Everything was made with the QT ide and the C++ programming language.
 The app itself is actually just 220Kb, but it reqires some .dll file to run on your sysrem;
 To ensure the app runs smoothly please download everything.
-its not complete as i will still be updating it
+Once you download the whole folder, unzip it and click on the "calculator.exe"
+And it will run smoothly. 
 
 Thanks 
 Charles Cookey
+
+PS: Still in progress.
