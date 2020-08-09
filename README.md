@@ -6,6 +6,8 @@ To ensure the app runs smoothly please download everything.
 Once you download the whole folder, unzip it and click on the "calculator.exe"
 And it will run smoothly. 
 
+<img src="images/Screenshot (185).png"/>
+
 Thanks 
 Charles Cookey
 
